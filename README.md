@@ -9,3 +9,5 @@ Uma breve explicação de quais testes são mais conhecidos e porque selecionou 
 Relatório Técnico: Documento descrevendo quais testes foram escolhidos, como foram implementados e os resultados obtidos (prints ou logs de execução).
 
 <img width="985" height="816" alt="image" src="https://github.com/user-attachments/assets/4627182f-96bc-4fee-832c-c85d9396bbe5" />
+
+A finalidade é garantir que a interface funcione corretamente, permitindo aos usuários adicionar tarefas à lista e apresentar uma interface simples e organizada, validando assim a sua capacidade de criar e manter aplicações web funcionais.
